@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="line_one">This app allows you to search for Talking ATMs near you deployed by banks in India.</string>
+    <string name="line_two">Use the search box above the list to find the Talking ATM you are looking for.You can enter city name,area or pin code.Use the filter settings page to view only Talking ATMs of a particular state or bank.</string>
+
+    <string name="facebook_app_id">2088842387877628</string>
+    <string name="fb_login_protocol_scheme">fb2088842387877628</string>
+</resources>
